@@ -1,9 +1,6 @@
 # Ecg-5-class-classification
-Here is a comprehensive and professionally structured **`README.md`** file for your project. This is designed to be copy-pasted directly into your GitHub repository or project directory.
 
-It highlights the methodology, dataset details, CNN architecture, and the performance results of both your CNN and Random Forest models based on your project files.
 
----
 
 # Five-Class Classification of ECG Signals Using TQWT and Machine Learning
 
